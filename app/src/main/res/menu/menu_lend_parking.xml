@@ -22,7 +22,7 @@
         android:id="@+id/notes"
         android:orderInCategory="102"
         android:title="notes"
-        android:icon="@drawable/notes"
+        android:icon="@drawable/ic_notes"
         app:showAsAction="ifRoom" />
 
 </menu>
