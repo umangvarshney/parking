@@ -4,6 +4,7 @@
     android:background="@color/colorPrimaryDark"
     android:elevation="4dp"
     android:theme="@style/Theme.AppCompat.Light"
+    android:id="@+id/toolbar1"
     >
 
 </android.support.v7.widget.Toolbar>
